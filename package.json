@@ -1,0 +1,26 @@
+{
+  "name": "challenge10-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamsniffer/challenge10-oop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamsniffer/challenge10-oop/issues"
+  },
+  "homepage": "https://github.com/Jamsniffer/challenge10-oop#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
