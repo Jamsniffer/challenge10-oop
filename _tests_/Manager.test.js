@@ -1,5 +1,7 @@
 const Manager = require("../lib/Manager");
 
+//To Do: rewrite this test 
+
 const managerOne = new Manager(1, "Jane Doe", "janedoe@gmail.com");
 test('checks for the manager name', () => {
     const name = managerOne.getName();

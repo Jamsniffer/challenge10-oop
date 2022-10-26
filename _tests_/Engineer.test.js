@@ -1,5 +1,7 @@
 const Engineer = require("../lib/Engineer");
 
+//To Do: rewrite this test 
+
 const engineerOne = new Engineer(1, "Jane Doe", "janedoe@gmail.com");
 test('checks for the engineer name', () => {
     const name = engineerOne.getName();

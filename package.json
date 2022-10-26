@@ -22,5 +22,8 @@
   "homepage": "https://github.com/Jamsniffer/challenge10-oop#readme",
   "devDependencies": {
     "jest": "^28.1.3"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.4"
   }
 }
